@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanMerillas
-- 👀 I’m interested in software develop
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning JS, React, c# and Net Core
 - 💞️ I’m looking to collaborate on all i can help
 - 📫 How to reach me about Sharepoint
